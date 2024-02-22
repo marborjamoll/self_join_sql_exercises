@@ -8,13 +8,19 @@ In this setup, John and Jane are married and have two children, Jim and Jill. Al
 These exercises cover a range of SQL topics including self joins, subqueries, aggregations, and date functions, providing a comprehensive practice set for understanding and manipulating hierarchical data in PostgreSQL.
 
 ## Exercises
+
+### Level: easy
 1. Find all parents and their children.
 2. Find all siblings.
 3. List all individuals who do not have any children.
-4. Find all aunts and uncles of a given person.
-5. List grandparents and their grandchildren.
-6. Identify all cousins.
-7. Find the oldest person in the family.
-8. List all females in the family tree who have children.
-9. Find individuals with no siblings.
-10. List all individuals who have at least one nephew or niece.
+
+### Level: medium
+4. List grandparents and their grandchildren.
+5. Find the oldest person in the family.
+6. List all females in the family tree who have children.
+7. Find individuals with no siblings.
+8. List all individuals who have at least one nephew or niece.
+
+### Level: Hard
+9. Find all aunts and uncles of a given person.
+10. Identify all cousins.
