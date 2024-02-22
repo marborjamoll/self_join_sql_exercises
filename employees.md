@@ -22,3 +22,6 @@ These exercises will help you understand how to use **SELF JOIN** to explore hie
 3. Count Employees by Supervisor: Create a query to count how many employees each supervisor has.
 
 4. Find Pairs of Employees from the Same Department: Use a SELF JOIN to list all pairs of employees who work in the same department.
+
+### Hard exercise
+5. Get how many supervisors has every employee. For example, Alice has no supervisors and Diana has two supervisors (charlie directly and alice indirectly).
