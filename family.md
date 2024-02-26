@@ -11,7 +11,7 @@ These exercises cover a range of SQL topics including self joins, subqueries, ag
 
 ### Level: easy
 1. Find all parents and their children.
-  1.1. Show persons with father and mother (both of them).
+  1.1. Show persons with father and mother (both of them). 1.2. Show persons with father or mother or both of them.
 3. Find all siblings.
 4. List all individuals who do not have any children.
 
